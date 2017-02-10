@@ -1,0 +1,52 @@
+locale: "en-US"
+title: Sam's Blog # Title of your site
+url: "http://blog.samhinshaw.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+google_analytics_key: ""
+
+# Default description in social shares for the jekyll-seo-tag gem
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to my blog! Here I'll be reporting my journey learning
+  full stack web development (with a focus on front-end). I'm doing
+  this mostly for my own benefit, to have a resource to look back on.
+
+# Author details for the jekyll-seo-tag gem
+author:
+  name: Sam Hinshaw
+  email: sam@samhinshaw.com
+  twitter: samhinshaw
+
+# Social details for the jekyll-seo-tag gem
+social:
+  name: Sam Hinshaw's Blog
+  links:
+    - https://github.com/samhinshaw/blog
+
+permalink: # pretty # What is this for?
+
+gems:
+  - "jekyll-feed"
+  - "jekyll-seo-tag"
+  - "jekyll-paginate"
+  - "jekyll-sitemap"
+
+# Jekyll SEO Tag
+webmaster_verifications:
+  google: # 1234
+  bing: # 1234
+  alexa: # 1234
+  yandex: # 1234
+
+# -----------
+# CloudCannon
+
+social_icons:
+  - Facebook
+  - Google Plus
+  - Instagram
+  - LinkedIn
+  - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube
+  - RSS

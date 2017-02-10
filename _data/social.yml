@@ -1,0 +1,16 @@
+- name: Facebook
+  link: 'https://www.facebook.com/holton.hinshaw'
+  social_icon: Facebook
+  new_window: true
+- name: RSS
+  link: '/feed.xml'
+  social_icon: RSS
+  new_window: true
+- name: Instagram
+  link: 'https://www.instagram.com/holtonhinshaw/'
+  social_icon: Instagram
+  new_window: true
+- name: Twitter
+  link: 'https://www.Twitter.com/samhinshaw/'
+  social_icon: Twitter
+  new_window: true

@@ -1,4 +1,7 @@
-# How to install NodeJS & Hyper
+----		
+ -layout: post	
+ -title: How to Install NodeJS & Hyper	
+----
 
 ## NodeJS
 

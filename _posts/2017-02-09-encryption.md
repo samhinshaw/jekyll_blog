@@ -1,4 +1,8 @@
-## Encryption commands for LetsEncrypt
+----		
+ -layout: post	
+ -title: Encryption Commands for LetsEncrypt	
+----
+
 
 ```bash
 sudo letsencrypt certonly -a webroot --webroot-path=/home/shinshaw/serve/blog -d blog.samhinshaw.com

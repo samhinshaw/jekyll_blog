@@ -1,4 +1,8 @@
-# How to install Firefox Nightly
+----		
+ -layout: post	
+ -title: How to Install Firefox Nightly	
+----
+
 
 1. Untar/unzip: `cd ~/Downloads/ && tar xjf firefox-51.0.tar.bz2`
 2. Remove old firefox directory `sudo rm -r /opt/firefox`

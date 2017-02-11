@@ -1,6 +1,7 @@
 ----		
- -layout: post	
- -title: Encryption Commands for LetsEncrypt	
+layout: post
+title: Encryption Commands for LetsEncrypt
+date: 2017-02-09
 ----
 
 

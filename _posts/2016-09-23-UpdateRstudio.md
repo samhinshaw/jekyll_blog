@@ -1,7 +1,10 @@
-----		
- -layout: post	
- -title: Automatically Update Rstudio	
-----
+---
+layout: post
+title: Automatically Update Rstudio
+date: 2016-09-23
+---
+
+<img src="/images/fulls/01.jpg" class="fit image">
 
 
 Information on package downloads were obtained from the [RStudio website](https://support.rstudio.com/hc/en-us/articles/203842428-Getting-the-newest-RStudio-builds), and this automation was prompted by [a question asked by a student on GitHub](https://github.com/STAT545-UBC/Discussion/issues/334).  

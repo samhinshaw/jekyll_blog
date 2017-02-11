@@ -1,0 +1,12 @@
+# Installing Autokey!
+
+Autokey is a fantastic shortcut program. I'm currently using it to insert angle brackets more ergonomically. 
+
+There is a current fork being maintained in python3: https://github.com/autokey-py3/autokey
+
+To install: 
+
+1. `sudo add-apt-repository ppa:troxor/autokey`
+2. `sudo apt update`
+3. `sudo apt install autokey-gtk`
+4. Point your autokey installation to ~/Dropbox/Ubuntu/Autokey_Sync

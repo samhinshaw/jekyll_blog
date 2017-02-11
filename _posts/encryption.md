@@ -1,0 +1,10 @@
+## Encryption commands for LetsEncrypt
+
+```bash
+sudo letsencrypt certonly -a webroot --webroot-path=/home/shinshaw/serve/blog -d blog.samhinshaw.com
+
+sudo nano /etc/nginx/snippets/ssl-blog.samhinshaw.com.conf
+
+ssl_certificate /etc/letsencrypt/live/blog.samhinshaw.com/fullchain.pem;
+ssl_certificate_key /etc/letsencrypt/live/blog.samhinshaw.com/privkey.pem;
+```

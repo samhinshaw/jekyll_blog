@@ -1,8 +1,8 @@
-----		
+---		
 layout: post
 title: How to Install Firefox Nightly
 date: 2017-02-09
-----
+---
 
 
 1. Untar/unzip: `cd ~/Downloads/ && tar xjf firefox-51.0.tar.bz2`

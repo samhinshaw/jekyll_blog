@@ -25,7 +25,11 @@ author:
 social:
   name: Sam Hinshaw's Blog
   links:
-    - https://github.com/samhinshaw/blog
+    - https://twitter.com/samhinshaw/
+    - https://github.com/samhinshaw/
+    - https://codepen.io/samhinshaw/
+    - https://facebook.com/holton.hinshaw/
+    - https://instagram.com/holtonhinshaw
 # -----
 # Build
 
@@ -85,7 +89,8 @@ social_icons:
   - YouTube
   - Email
   - RSS
+  - Codepen
 
 _comments:
   description: Text shown when sharing on social media
-  blurb: Short bio or description of this person
+  blurb: Graduate Student in Bioinformatics at The University of British Columbia. 💻🐈☕
